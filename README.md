@@ -1,0 +1,2 @@
+# Nextai
+Personal Project
