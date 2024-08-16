@@ -1,5 +1,6 @@
 # Nextai
 This project is a RAG based LLM project.
 LLM could generate the answers based on User's uploaded .pdf files.
-<img width="1214" alt="image" src="https://github.com/user-attachments/assets/4c93d8f7-8974-4655-840a-c5484cd36d2d">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/52950a5e-0547-45a7-a562-9e822f9ab2b8">
+
 
